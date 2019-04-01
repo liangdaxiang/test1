@@ -14,6 +14,7 @@ public class Demo1 {
     * @description用c3p0连接池升级增删改查
     * @author:梁大祥
     * @create：2019--01--01 11:07
+    我张宙到此一游啊
     */
    public static void main(String[] args) throws Exception {
 //      fun1(29,"课工场的峥嵘岁月","张宙","2011-12-1",32.5,2);//新增，用object形参数组作为参数
