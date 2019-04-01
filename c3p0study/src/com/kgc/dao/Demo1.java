@@ -13,6 +13,7 @@ public class Demo1 {
     * @program：c3p0study
     * @description用c3p0连接池升级增删改查
     * @author:梁大祥
+    * 张宙啊啊
     * @create：2019--01--01 11:07
     */
    public static void main(String[] args) throws Exception {
